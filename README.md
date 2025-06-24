@@ -17,7 +17,8 @@ A fully functional and responsive **Enquiry Form** built using **React**, **Boot
 
 ## 🖼️ Preview
 
-> 📷 *(Add a screenshot of the app here after running it locally or deploying it)*
+> 📷 
+![App Screenshot](screenshot.png)
 
 ---
 
